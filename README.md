@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ameliepiraud
 - 👀 I’m interested in computer network and programming
-- 🌱 I’m currently learning C# and Python
+- 🌱 I’m currently learning Bash and Python
 
 
 <!---
